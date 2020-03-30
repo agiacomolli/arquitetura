@@ -25,11 +25,11 @@ static unsigned char keyboard_map[128] = {
     't',
     'y',
     'u',
-    'i'
-    'o'
-    'p'
-    '['
-    ']'
+    'i',
+    'o',
+    'p',
+    '[',
+    ']',
     '\n',   /* Enter key */
      0,     /* Control */
     'a',

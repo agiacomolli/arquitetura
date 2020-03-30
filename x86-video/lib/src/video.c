@@ -1,6 +1,6 @@
 #include <gfx/video.h>
 
-static unsigned short * const vidptr = (unsigned short *)0xFD000000;
+static unsigned long * const vidptr = (unsigned long *)0xFD000000;
 
 void draw_square(int x, int y, int w, int h, int c)
 {

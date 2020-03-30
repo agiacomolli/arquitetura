@@ -9,7 +9,7 @@ CHECKSUM            equ -(MAGIC_NUMBER + FLAGS) ; Checksum do multiboot (magic +
 MODE_TYPE           equ 0
 WIDTH               equ 1024
 HEIGHT              equ 768
-DEPTH               equ 16
+DEPTH               equ 32
 
 HEADER_ADDR         equ 0
 LOAD_ADDR           equ 0

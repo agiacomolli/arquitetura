@@ -1,4 +1,4 @@
-PROJECT = kernel-video
+PROJECT = pong
 
 SOURCES += src/main.c
 
